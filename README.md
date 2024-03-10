@@ -1,8 +1,8 @@
 # Table of Content :
-1.[Description](#p1)
-2.[Installations](#p2)
-3.[Usage](#p3)
-4.[Dataset](#p4)
+1.[Description]
+2.[Installations]
+3.[Usage]
+4.[Dataset]
 
 # Description:
 
