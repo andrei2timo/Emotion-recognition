@@ -11,7 +11,6 @@ Emotion recognition is an important task in various fields including human-compu
 - `data/`: Contains datasets used for training and testing the emotion recognition models.
 - `models/`: Implementation of different machine learning models for emotion recognition.
 - `scripts/`: Scripts for data preprocessing, model evaluation, and deployment.
-- `README.md`: Introduction and overview of the project (you're reading it right now).
 
 ## Usage
 
@@ -26,7 +25,13 @@ git clone https://github.com/andrei2timo/Emotion-recognition.git
 ```
 pip install -r requirements.txt
 ```
-
+For both options, when an emotion is reflected, an emoji will be displayed according to the reflected emotion accordingly:
+![Disgust](emojis/disgust.png)
+![Happiness](emojis/happiness.png)
+![Sadness](emojis/sadness.png)
+![Surprise](emojis/surprise.png)
+![Anger](emojis/anger.png)
+![Fear](emojis/fear.png)
 3. Run the scripts to train the models, evaluate performance, and deploy the models.
 
 ## Contributing
